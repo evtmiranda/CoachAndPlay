@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoachAndPlay", "CoachAndPlay\CoachAndPlay.csproj", "{8105ED08-A0DB-4F59-9AD3-643E9EE85E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCoachAndPlay", "WebCoachAndPlay\WebCoachAndPlay.csproj", "{656A04FB-D469-4F52-B851-A291C56DC620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8105ED08-A0DB-4F59-9AD3-643E9EE85E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8105ED08-A0DB-4F59-9AD3-643E9EE85E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8105ED08-A0DB-4F59-9AD3-643E9EE85E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8105ED08-A0DB-4F59-9AD3-643E9EE85E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656A04FB-D469-4F52-B851-A291C56DC620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656A04FB-D469-4F52-B851-A291C56DC620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656A04FB-D469-4F52-B851-A291C56DC620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656A04FB-D469-4F52-B851-A291C56DC620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

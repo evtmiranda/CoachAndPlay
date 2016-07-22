@@ -1,0 +1,5 @@
+C:\Users\Gerson\Documents\Projetos\Clientes\CoachAndPlay\CoachAndPlay\obj\Debug\CoachAndPlay.csprojResolveAssemblyReference.cache
+C:\Users\Gerson\Documents\Projetos\Clientes\CoachAndPlay\CoachAndPlay\bin\Debug\CoachAndPlay.dll
+C:\Users\Gerson\Documents\Projetos\Clientes\CoachAndPlay\CoachAndPlay\bin\Debug\CoachAndPlay.pdb
+C:\Users\Gerson\Documents\Projetos\Clientes\CoachAndPlay\CoachAndPlay\obj\Debug\CoachAndPlay.dll
+C:\Users\Gerson\Documents\Projetos\Clientes\CoachAndPlay\CoachAndPlay\obj\Debug\CoachAndPlay.pdb
